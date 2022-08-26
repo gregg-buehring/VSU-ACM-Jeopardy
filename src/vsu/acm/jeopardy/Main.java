@@ -131,7 +131,7 @@ public class Main extends JFrame {
     }
 
     private static void loadQuestions() throws IOException {
-        File file = new File("qa.txt");
+        File file = new File("questions.txt");
         if(!file.exists()) {
             JOptionPane.showMessageDialog(null, "Question/answer file not found", "Error", JOptionPane.ERROR_MESSAGE);
         }
