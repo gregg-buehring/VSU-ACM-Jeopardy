@@ -1,3 +1,5 @@
+package application;
+
 public class qa {
 	private static String[] categories = new String[5];
 	private static String[][] questions = new String[5][5];
