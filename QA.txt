@@ -1,30 +1,30 @@
-c:1:Felines
-1:1:production play based on the lives of these feline animals now has its own movie.:Cats
-1:2:This fat cats loves lasagna:Garfield
-1:3:This big cat was on a journey to become the king of the jungle by following the yellow brick road:Cowardly Lion
-1:4:This big cat owner was incarcerated for an attempted murder of another famous big cat owner:Tiger King
-1:5:This lion left home after the tragic loss of his father:Simba
-c:2:Food
-2:1:This cookie is black and white.:Oreo
-2:2:These chips are in the shape of a triangle.:Doritos
-2:3:This vegetable is believed to improve your eyesight.:Carrot
-2:4:This meat comes from the highest cause of carbon emmissions on our planet.:Beef
-2:5:This vegetable is used to make many snacks such as fries, chips, and bread.:Potato
-c:3:Shoes
-3:1:These shoes help you run better.:Sneakers
-3:2:This highend stiletos are very popular amongst the rich community.:Red Bottoms
-3:3:This shoes are used on the beach.:Flip-Flops
-3:4:This shoes are used in your house.:Slippers
-3:5:This shoes have holes in them.:Crocs
-c:4:Biology
-4:1:Plant cells have this, but animals do not.:Chloroplasts
-4:2:This word is used to describe the entire environment and all of its inhabitants.:Ecosystem
-4:3:This is how fish reproduce.:Ovoviparity
-4:4:Insects have these pores to help them with respiration.:Spiracles
-4:5:The most dominant plants during the Carboniferous period.:Ferns
-c:5:Characters
-5:1:This yellow sponge works at a restaurant.:Spongebob Squarepants
-5:2:This big red dog got his size from all the love he received.:Clifford
-5:3:This yellow bird is from Sesame Street.:Big Bird
-5:4:This puppet can not hide it when he lies.:Pinocchio
-5:5:This little bear loves honey, and he wears a red shirt.:Pooh Bear
++Felines
+production play based on the lives of these feline animals now has its own movie.;Cats
+This fat cats loves lasagna;Garfield
+This big cat was on a journey to become the king of the jungle by following the yellow brick road;Cowardly Lion
+This big cat owner was incarcerated for an attempted murder of another famous big cat owner;Tiger King
+This lion left home after the tragic loss of his father;Simba
++Food
+This cookie is black and white.;Oreo
+These chips are in the shape of a triangle.;Doritos
+This vegetable is believed to improve your eyesight.;Carrot
+This meat comes from the highest cause of carbon emmissions on our planet.;Beef
+This vegetable is used to make many snacks such as fries, chips, and bread.;Potato
++Shoes
+These shoes help you run better.;Sneakers
+This highend stiletos are very popular amongst the rich community.;Red Bottoms
+This shoes are used on the beach.;Flip-Flops
+This shoes are used in your house.;Slippers
+This shoes have holes in them.;Crocs
++Biology
+Plant cells have this, but animals do not.;Chloroplasts
+This word is used to describe the entire environment and all of its inhabitants.;Ecosystem
+This is how fish reproduce.;Ovoviparity
+Insects have these pores to help them with respiration.;Spiracles
+The most dominant plants during the Carboniferous period.;Ferns
++Characters
+This yellow sponge works at a restaurant.;Spongebob Squarepants
+This big red dog got his size from all the love he received.;Clifford
+This yellow bird is from Sesame Street.;Big Bird
+This puppet can not hide it when he lies.;Pinocchio
+This little bear loves honey, and he wears a red shirt.;Pooh Bear
